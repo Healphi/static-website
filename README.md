@@ -1,2 +1,3 @@
-# static-website
-µSource code for www.healphi.com
+# Static website
+
+Source code for www.healphi.com
